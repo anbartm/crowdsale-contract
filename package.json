@@ -1,0 +1,18 @@
+{
+  "name": "crowdsale-contract",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "truffle test",
+    "start": "ganache-cli -m \"candy maple cake sugar pudding cream honey rich smooth crumble sweet treat\" -d -a 40"
+  },
+  "author": "CoFab",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.1.5",
+    "minimist": "^1.2.0",
+    "truffle": "^4.1.13",
+    "truffle-hdwallet-provider": "git+https://github.com/trufflesuite/truffle-hdwallet-provider.git#71520a2",
+    "web3": "0.20.6"
+  }
+}
