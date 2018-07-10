@@ -19,7 +19,7 @@ module.exports = {
     ethToTokenConversion: 47000,
     maxTokenSupply: web3.toBigNumber('1000000000e18'),
     presaleBonusTokens: web3.toBigNumber('115996000e18'),
-    presaleBonusAddress: 0xd7c4af0e30ec62a01036e45b6ed37bc6d0a3bd53,
-    presaleBonusAddressColdStorage: 0x47d634ce50170a156ec4300d35be3b48e17caaf6,
+    presaleBonusAddress: '0xd7c4af0e30ec62a01036e45b6ed37bc6d0a3bd53',
+    presaleBonusAddressColdStorage: '0x47d634ce50170a156ec4300d35be3b48e17caaf6',
   },
 }
