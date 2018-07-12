@@ -106,7 +106,7 @@ Saving artifacts...```
 We see that our crowdsale contract has been deployed to the address
 `0x72a546f651a2430adc7d593140435ed58490f55a`. Of course, if you do your
 own deployment, the address will be different. You can search for that
-address on (Kovan Etherscan)[https://kovan.etherscan.io] to see that
+address on [Kovan Etherscan](https://kovan.etherscan.io) to see that
 your contract has really been deployed.
 
 Interacting with the contracts:
