@@ -54,6 +54,9 @@ contribution to 2 ether:
 We pass the values as singleton lists because the function supports
 adding multiple entries at once.
 
+See more examples [here](README_NOOB.md)
+
+
 It's also possible to kill contracts, meaning that they stop functioning and their
 code gets deleted.
 
