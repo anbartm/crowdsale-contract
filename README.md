@@ -1,4 +1,4 @@
-# The CoFab crowdsale and token contracts! 🐵
+# The Cofab crowdsale and token contracts! 🐵
 
 A token and crowdsale contract. Structured as a Truffle project within a node
 package. Create a token and a crowdsale and deploy them to a local RPC, a
